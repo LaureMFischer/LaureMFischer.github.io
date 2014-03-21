@@ -31,8 +31,14 @@ body {
   font-family: 'Lusitana', serif;
 }
 
-.navbar-brand {
+#brand {
+  margin-top: 15px;
+}
+
+#brand-link {
   font-size: 26px;
+  color: white;
+  text-decoration: none;
 }
 
 .desc {
@@ -82,14 +88,4 @@ body {
 
 #projects {
   margin-top: 60px;
-}
-
-#buttons {
-  margin-left: 435px;
-  margin-bottom: 40px;
-}
-
-.btn {
-  margin-right: 20px;
-  margin-left: 20px;
 }
