@@ -1,0 +1,95 @@
+/*body {
+  background-image: url('http://bigbackground.com/wp-content/uploads/2013/08/new-york-city-streets-background.jpg')
+}*/
+
+#tagline{
+  margin-right: 50px;
+}
+
+.col-md-3 {
+  background-color: rgba(255, 255, 255, .8);
+  margin: 20px;
+}
+
+.jumbotron {
+  background-color: rgba(255, 255, 255, 1);
+  padding-bottom: 0;
+}
+
+#contact {
+  margin-top: 40px;
+  padding: 5px;
+}
+
+#photo {
+  float: left;
+  margin-right: 20px;
+  margin-top: 40px;
+}
+
+body {
+  font-family: 'Lusitana', serif;
+}
+
+.navbar-brand {
+  font-size: 26px;
+}
+
+.desc {
+  font-size: 18px;
+  text-align: center;
+  margin-left: 45px;
+  margin-right: 45px;
+}
+
+#proj-1-photo {
+  width: 400px;
+  height: 200px;
+  margin-left: 75px;
+  border: solid;
+  border-color: rgb(247, 247, 247);
+  border-width: 1px;
+}
+
+#proj-2-photo {
+  width: 400px;
+  height: 200px;
+  margin-left: 75px;
+}
+
+.proj-title {
+  text-align: center;
+}
+
+.navbar {
+  background-color: rgb(121, 205, 205);
+}
+
+.about-me {
+  font-size: 18px;
+  margin-left: 15px;
+  margin-right: 60px;
+}
+
+#about {
+  margin-top: 70px;
+  margin-bottom: 30px;
+}
+
+#my-name {
+  margin-top: 40px;
+}
+
+#projects {
+  margin-top: 60px;
+}
+
+#buttons {
+  margin-left: 435px;
+  margin-bottom: 40px;
+}
+
+.btn {
+  margin-right: 20px;
+  margin-left: 20px;
+}
