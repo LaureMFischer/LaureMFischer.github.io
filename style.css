@@ -51,7 +51,7 @@ body {
 #proj-1-photo {
   width: 400px;
   height: 200px;
-  margin-left: 75px;
+  margin-left: 10px;
   border: solid;
   border-color: rgb(247, 247, 247);
   border-width: 1px;
@@ -60,7 +60,7 @@ body {
 #proj-2-photo {
   width: 400px;
   height: 200px;
-  margin-left: 75px;
+  margin-left: 10px;
 }
 
 .proj-title {
@@ -74,7 +74,9 @@ body {
 .about-me {
   font-size: 18px;
   margin-left: 15px;
-  margin-right: 60px;
+  margin-right: 15px;
+  margin-bottom: 40px;
+  text-align: justify;
 }
 
 #about {
@@ -88,4 +90,8 @@ body {
 
 #projects {
   margin-top: 60px;
+}
+
+.container {
+  width: 900px;
 }
