@@ -91,7 +91,7 @@ body {
 }
 
 #about {
-  margin-top: 70px;
+  margin-top: 50px;
   margin-bottom: 30px;
 }
 
@@ -105,4 +105,12 @@ body {
 
 .container {
   width: 900px;
+}
+
+#skills {
+  margin-top: 40px;
+}
+
+#skill-list {
+  font-size: 16px;
 }
