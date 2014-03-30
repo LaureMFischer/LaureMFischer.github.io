@@ -44,13 +44,13 @@ body {
 .desc {
   font-size: 18px;
   text-align: center;
-  margin-left: 45px;
-  margin-right: 45px;
+  margin-left: 20px;
+  margin-right: 20px;
   margin-bottom: 30px;
 }
 
 #proj-1-photo {
-  width: 400px;
+  width: 250px;
   height: 200px;
   margin-left: 10px;
   border: solid;
@@ -59,9 +59,19 @@ body {
 }
 
 #proj-2-photo {
-  width: 400px;
+  width: 250px;
   height: 200px;
   margin-left: 10px;
+  margin-right: 10px;
+}
+
+#proj-3-photo {
+  width: 120px;
+  height: 200px;
+  margin-left: 75px;
+  border: solid;
+  border-color: rgb(247, 247, 247);
+  border-width: 1px;
 }
 
 .proj-title {
